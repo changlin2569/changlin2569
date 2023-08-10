@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://w.wallhaven.cc/full/v9/wallhaven-v9v3w3.jpg" align="left" style="width: 100%" />  
+  
 
-<!--
-**changlin2569/changlin2569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm changlin, an amateur front-end developer 👨‍💻 🚀</div>  
+  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Alipay](https://www.alipay.com/)  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I am a 2023 graduate of Xi'an University of Posts and Telecommunications  
+  
+
+- ⚡ dream lie flat  
+  
+
+<br/>  
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
