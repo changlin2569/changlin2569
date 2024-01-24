@@ -1,4 +1,4 @@
-<img style="display:none" src="https://w.wallhaven.cc/full/v9/wallhaven-v9v3w3.jpg" align="left" style="width: 100%" />  
+<!-- <img style="display:none" src="https://w.wallhaven.cc/full/v9/wallhaven-v9v3w3.jpg" align="left" style="width: 100%" /> -->  
   
 
 ### <div align="center">I'm changlin, an amateur front-end developer 👨‍💻 🚀</div>  
